@@ -1,3 +1,3 @@
-# Hotel-booking-
+# Hotel-booking
 This data collection comprises reservation details for a city hotel and a resort hotel, as well as details like the date the reservation was made, the duration of the stay, the number of people, kids, and/or newborns, and the number of parking spots that are available. This Jupyter file can assist in determining the ideal time of year to make a hotel reservation. Determine the ideal length of stay to secure the most affordable daily cost. Moreover, forecast if a hotel was going to get an unusually high number of special requests. Here, a dataset from Kaggle is utilised.
 dataset url : https://www.kaggle.com/jessemostipak/hotel-booking-demand
